@@ -24,7 +24,7 @@ iv:  Reviewed/Unreviewed Products are differentiated with white/LightBlue colors
 Oct 16th 2018 sowmya madarapu updated for SSDR23-541
 -->
 <apex:page controller="VFC_PricingEnquiry" extensions="CustomerMetricDataHandler" sidebar="false" id="pricingEnquiry_Page" showHeader="true" docType="html-5.0" tabStyle="Maintenance__tab" standardStylesheets="true">
-    <!-- <apex:messages> did change in alias 1-->
+    <!-- <apex:messages> Rishu testing git int-->
     <apex:messages style="color:red" />
     <br/>
 
